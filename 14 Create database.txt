@@ -1,0 +1,2 @@
+CREATE DATABASE Cliniñ23;
+go
